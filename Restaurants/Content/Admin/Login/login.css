@@ -214,3 +214,13 @@ a.btn.btn-danger.btn-user,a.btn.btn-primary.btn-user {
     font-family: inherit;
     transition: background;
 }
+.inputGroup.inputGroup3{
+  text-align: -webkit-center;
+}
+
+#loginprocess{
+  display: none;
+}
+#loginError{
+  display: none;
+}
